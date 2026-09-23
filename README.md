@@ -1,12 +1,6 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00D4FF&height=220&section=header&text=Pranav%20Maske&fontSize=64&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20Product%20Builder&descSize=18&descAlignY=58" alt="header"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/prnv-maske">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=I+build+production+web+apps+end+to+end;Data+model+%E2%86%92+API+%E2%86%92+UI+%E2%86%92+Tests;Next.js+%C2%B7+TypeScript+%C2%B7+Firebase+%C2%B7+Gemini" alt="typing"/>
-  </a>
+  <img src="assets/terminal.svg" alt="$ whoami → Pranav Maske, Full-Stack Developer" width="100%"/>
 </p>
 
 <p align="center">
